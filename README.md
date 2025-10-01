@@ -1,6 +1,6 @@
 # Hi there, the name's Chris!
 
-![Banner Image](banner_github.jpg)
+![Banner Image](banner_github_slim.jpg)
 
 ## About Me
 
