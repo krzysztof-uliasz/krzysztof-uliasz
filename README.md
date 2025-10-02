@@ -37,6 +37,6 @@ A C++ program that encodes/decodes secret messages to/from image files by modify
 
 - **Email: krzysztof.uliasz00@gmail.com**
 - **[LinkedIn](https://www.linkedin.com/in/krzysztof-uliasz-804044343/)**
-- **[CV]**()
+- **[CV](CV_Krzysztof_Uliasz.pdf)**
 
 
