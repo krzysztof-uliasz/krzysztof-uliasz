@@ -29,6 +29,10 @@ A C++ program that encodes/decodes secret messages to/from image files by modify
 
 A simple Java program capable of sending mail while utilizing a GUI made with javax.swing and java.awt. Sending mail is handled by the [Simple Java Mail](https://www.simplejavamail.org/) library utilizing the Simple Mail Transfer Protocol. You can check out the repository [here](https://github.com/krzysztof-uliasz/mail-client-in-java).
 
+### [Secret Messages In C++](https://github.com/krzysztof-uliasz/secret-messages)
+
+A C++ program that encodes/decodes secret messages to/from image files by modifying the LSB of RGBA values of pixels in the image. You can check out the repository [here](https://github.com/krzysztof-uliasz/secret-messages).
+
 ## Get in Touch
 
 - **Email: krzysztof.uliasz00@gmail.com**
