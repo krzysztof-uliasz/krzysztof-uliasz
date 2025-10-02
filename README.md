@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am Computer Science student at PJAIT with 2 years of experience in QA-testing software. I have also graduated from the University of Warsaw with a bachelor's degree in Cognitive Science. I am pursuing a career in software development and I'm eager to expand my knowledge and skills in the field. 
+I am a Computer Science student at PJAIT with 2 years of experience in QA-testing software. I have also graduated from the University of Warsaw with a bachelor's degree in Cognitive Science. I am pursuing a career in software development and I'm eager to expand my knowledge and skills in the field. 
 
 - Currently learning: **C++, MySQL**
 - Working on: **pursuing a degree in Computer Science at PJAIT**
